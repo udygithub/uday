@@ -1,0 +1,12 @@
+{
+"DryRun": true,
+"ImageId": "ami-dfc39aef",
+"KeyName": "mykey",
+"SecurityGroups": [
+"my-sg"
+],
+"InstanceType": "t2.micro",
+"Monitoring": {
+"Enabled": true
+}
+}
